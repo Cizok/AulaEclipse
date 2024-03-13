@@ -1,0 +1,5 @@
+package br.edu.eteczl.escolabackend.model;
+
+public interface IAluno {
+
+}
